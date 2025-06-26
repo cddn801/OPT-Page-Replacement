@@ -1,4 +1,4 @@
-# OPT Page Replacement Simulator
+# OPT Page Replacement Simulator 
 
 Implements a **single-level page table** for a **32-bit address space**, where all **pages will be 2 KB** in size. The number
 of frames is a parameter to the execution of the program and chosen by the user.
